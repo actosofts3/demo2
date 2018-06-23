@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 02 Feb 2018 10:32:59 at http://creative-era.com/era/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://creative-era.com/era/ -O1 "E:\theme\comning soon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:40:14	Error: 	"Not Found" (404) at link creative-era.com/era/fonts/glyphicons-halflings-regular.eot (from creative-era.com/era/css/bootstrap.css)
+10:40:14	Error: 	"Not Found" (404) at link creative-era.com/era/fonts/glyphicons-halflings-regular.eot? (from creative-era.com/era/css/bootstrap.css)
+10:40:14	Error: 	"Not Found" (404) at link creative-era.com/era/fonts/glyphicons-halflings-regular.woff2 (from creative-era.com/era/css/bootstrap.css)
+10:40:14	Error: 	"Not Found" (404) at link creative-era.com/era/fonts/glyphicons-halflings-regular.woff (from creative-era.com/era/css/bootstrap.css)
+10:40:14	Error: 	"Not Found" (404) at link creative-era.com/era/fonts/glyphicons-halflings-regular.ttf (from creative-era.com/era/css/bootstrap.css)
+10:40:14	Error: 	"Not Found" (404) at link creative-era.com/era/fonts/glyphicons-halflings-regular.svg (from creative-era.com/era/css/bootstrap.css)
+10:41:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 31814813 got 1662045): creative-era.com/era/video/New Zealand, Nature Landscapes.mp4
+10:41:51	Warning: 	Retry after error -4 (Incorrect length (1662045 Bytes, 31814813 expected)) at link creative-era.com/era/video/New Zealand, Nature Landscapes.mp4 (from creative-era.com/era/index_video.html)
+10:41:51	Error: 	"Not Found" (404) at link creative-era.com/era/images/circle.svg (from creative-era.com/era/css/style.css)
+10:42:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 31814813 got 3344989): creative-era.com/era/video/New Zealand, Nature Landscapes.mp4
+10:42:59	Warning: 	Retry after error -4 (Incorrect length (3344989 Bytes, 31814813 expected)) at link creative-era.com/era/video/New Zealand, Nature Landscapes.mp4 (from creative-era.com/era/index_video.html)
+10:44:14	Warning: 	file not stored in cache due to bogus state (broken size, expected 31814813 got 5027933): creative-era.com/era/video/New Zealand, Nature Landscapes.mp4
+10:44:14	Error: 	"Incorrect length (5027933 Bytes, 31814813 expected)" (-4) after 2 retries at link creative-era.com/era/video/New Zealand, Nature Landscapes.mp4 (from creative-era.com/era/index_video.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 15 seconds : 120 links scanned, 109 files written (12414489 bytes overall) [17486091 bytes received at 25905 bytes/sec]
+(8 errors, 5 warnings, 0 messages)
